@@ -28,7 +28,7 @@ A UPN diagram:
 - Provides contexts for metrics and management decisions
 
 ### Example
-![[upn-example.jpeg]]
+![UPN Example](upn-example.jpeg)
 
 1. **Activity box:** a verb phrase labels each bo
 2. **Resource:** a reource in each activity box designates the *who*. Tagged with either RACI (responsible, accountable, consulted, and informed) or more generally who is "supporting" the work.
@@ -37,7 +37,7 @@ A UPN diagram:
 5. **Decision:** several lines coming out of an activity box with line text explaining the flow represent a decision
 6. **Drill down:** any activity box can drill down to a lower-level diagram
 
-![[upn.jpeg]]
+![UPN Box](upn.jpeg)
 
 ### 5 Principles
 1. No more than 8-10 activity boxes on a screen
