@@ -1,5 +1,7 @@
 # DAO Process Mapping
 
+Decentalized Autonomous Organizations are in their early days and there's a lot of experimentation and iteration to prove their viability. We can take the lessons and tools learned from traditional organization/business management to accelerate this process. The focus can be shifted away from common pitfalls towards the more novel aspects of these experiments. 
+
 ## What is Process Mapping?
 
 Creates a visual representation of business processes, its main purpose is to show the relationship between the steps and the inputs of a business to establish a clear, consistent, and concise result. It includes any activity that defines what a busines does, who is responsible for what, how standard business processes are completed, and how success is measured.
