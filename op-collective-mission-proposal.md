@@ -45,11 +45,16 @@ Please list the critical milestone(s) that should be tracked to determine if you
 
 TODO: time estimates and more details
 
-*Benchmark Milestone 1* - Create a top-level process diagram
+*Benchmark Milestone 1* - Create a top-level process diagrams for: 
+
+- Proposal Processes
+    - Voting Process
+    - Governance Fund Proposal
+    - Other Proposal Types
 
 *Benchmark Milestone 2* - Drill down and create subprocess diagrams for the high level process diagram.
 
-*Benchmark Milestone 3* - Provide all relevant resources for the 
+*Benchmark Milestone 3* - Provide all relevant resources for the processes
 
 **How should badgeholders measure impact upon completion of this Mission?**
 
